@@ -1,5 +1,5 @@
 # Screen_Record_Demo
-### 这是一个linux环境下的基于QT的截屏及屏幕录像的测试Demo，大部分内容截取自SimpleScreenRecoder项目
+### 这是一个linux环境下的基于QT的截屏及屏幕录像的测试Demo，大部分内容截取自SSR(SimpleScreenRecorder)项目
 
 1.基于QT，FFMPEG，Xlib 相关开源库
 
@@ -9,10 +9,10 @@
 
   这个Demo主要用于想在GUI应用中添加截屏和录像功能时，做一个简单的参考
   
-3.SimpleScreenRecoder项目非常的棒，其功能完善，支持各种音视频输入，以及各种编码的配置
+3.SSR项目非常的棒，其功能完善，支持各种音视频输入，以及各种编码的配置
    
    SSR源码内容很多，音视频相关工作者可以参考，这里只截取了一点视频编码相关的内容
    
 4.内容相对粗糙简单，测试功能流程之用，不包含音频部分，不合理的地方请忽略
    
-   ---屏幕录像测试视频见 test.mkv---
+   ---此屏幕录像Demo产生的视频文件见 test.mkv---
